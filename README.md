@@ -6,3 +6,5 @@
 <img src="https://postfiles.pstatic.net/MjAyMDAxMDJfMTM0/MDAxNTc3OTU4NDkyODcx.1x-7BqC371IWfCHFOlbho0DS5nayih2axzDS-oNA6YAg.GQzr3uI5X1K9DVFx55f5--a2Vl7i7BkLvWzuXoLIXdgg.PNG.katejuyeon_/4.png?type=w966"><br>
 <img src="https://postfiles.pstatic.net/MjAyMDAxMDJfNjEg/MDAxNTc3OTU4NDk5ODM2.tw36lwajKQ9gjrr0dVGIOHKvOqi6CsMnpo-m0ZXis_wg.J22XAjCovZ8pvF59U1Uc4qVPuqHTV_L8XOT6DmJb3Rwg.PNG.katejuyeon_/5.png?type=w966"><br>
 <img src="https://postfiles.pstatic.net/MjAyMDAxMDJfMTQ3/MDAxNTc3OTU4NTA3NzM0.EbKSJPMEpeu_XyDEsmyVzKvompAkKjzmOg0vd3tauhQg.uZkO7Xzw2B_GAy9828NlfKZ67s22KEODIJjv2PmELA8g.PNG.katejuyeon_/6.png?type=w966"><br>
+<hr>
+<h3>본 압축파일을 다운로드 하셔서 압축을 푸시고, 이클립스의 작업폴더에 가져오셔서 요구사항의 버전을 맞춰주시면 확인하실 수 있습니다.
